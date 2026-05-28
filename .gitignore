@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Power BI
+*.pbix.bak
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Data (generated CSVs — keep scripts, not data)
+data_generator/output/*.csv
+
+# Personal files (not for public repo)
+周云聪会计*.pdf
+12周可落地项目计划书.txt
+
+# Temp
+*.tmp
+*.bak
+~$*.xlsx
